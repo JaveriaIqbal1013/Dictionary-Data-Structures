@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JveriaIqbal
+- 👋 Hi, I’m @Javeria Iqbal
 - 👀 I’m interested in Bioinformatics,Artificial Intellegence 
 - 🌱 I’m currently learning BSCS from NATIONAL UNIVERSITY OF COMPUTER AND EMERGING SCIENCES.
 
